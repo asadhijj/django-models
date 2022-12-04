@@ -4,7 +4,7 @@
 
 ## Links and Resources
 
-   [Pull Request Link](https://github.com/asadhijj/django-models/pull/2)
+   [Pull Request Link](https://github.com/asadhijj/django-models/pull/3)
 
 ## Setup
 
